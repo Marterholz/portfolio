@@ -16,8 +16,8 @@ export const credentials = {
   },
   experience: {
     label: "Experience",
-    title: "1+ year",
-    detail: "Cisco courses, Cisco packet tracer",
+    title: "2+ year",
+    detail: "Cisco courses, Cisco packet tracer, Working Experience",
   },
 } as const;
 
